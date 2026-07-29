@@ -110,7 +110,7 @@ I plan to continue improving these projects by:
 
 Hi, I'm **Mansi Sharma**, a Computer Science Engineering student with a strong interest in learning new technologies and building projects that solve real-world problems. My goal is to continuously improve my programming skills by working on practical applications and exploring AI concepts.
 
-This repository showcases the projects I developed during my AI internship, reflecting my learning journey in **Python programming, Artificial Intelligence, GUI development, and problem-solving**.
+This repository showcases the projects I developed during my AI internship, reflecting my learning journey in Python programming, Artificial Intelligence, GUI development, and problem-solving.
 
 ---
 
