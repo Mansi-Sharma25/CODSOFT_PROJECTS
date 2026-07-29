@@ -38,7 +38,6 @@ Task2_TicTacToe_AI/
 ├── tic_tac_toe.py            # Main game source code
 ├── README.md                 # Project documentation
 ├── .gitignore                # Git ignored files
-│
 └── screenshots/
     ├── Game start.png
     ├── First move.png
