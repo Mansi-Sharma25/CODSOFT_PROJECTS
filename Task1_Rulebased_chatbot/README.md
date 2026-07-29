@@ -39,7 +39,7 @@ Task1_Rulebased_chatbot/
 ├── chatbot.py                  # Main chatbot program
 ├── README.md                   # Project documentation
 ├── .gitignore                  # Git ignored files
-│
+├── requirements.txt
 └── screenshots/
     ├── Calculator.png          # Calculator feature
     ├── Conversation.png        # Chat conversation
