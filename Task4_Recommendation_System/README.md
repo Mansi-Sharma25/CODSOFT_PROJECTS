@@ -56,6 +56,7 @@ Task3_Book_Recommendation_System/
 ├── book_dataset.csv                # Book dataset
 ├── README.md                       # Project documentation
 ├── .gitignore                      # Git ignored files
+├── requirements.txt
 └── screenshots/
     ├── Welcome page.png
     ├── Recommend books.png
