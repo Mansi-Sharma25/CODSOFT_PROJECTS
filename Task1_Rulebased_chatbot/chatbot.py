@@ -65,7 +65,7 @@ def chatbot_reply(user_msg):                                        # function t
             return "Sorry, I don't understand that❗"
         
 while True:
-    user_msg = input("enter your message (YOU): ")                 # taking user input
+    user_msg = input("(YOU): ")                 # taking user input
     user_msg = user_msg.lower()                                    # converting to lowercase
 
     reply = chatbot_reply(user_msg)              
