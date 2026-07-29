@@ -33,10 +33,18 @@ This project demonstrates the use of **conditional statements, functions, loops,
 
 ## 📂 Project Structure
 
-```
-RuleBot/
-│── chatbot.py
-│── README.md
+```text
+Task1_Rulebased_chatbot/
+│
+├── chatbot.py                  # Main chatbot program
+├── README.md                   # Project documentation
+├── .gitignore                  # Git ignored files
+│
+└── screenshots/
+    ├── Calculator.png          # Calculator feature
+    ├── Conversation.png        # Chat conversation
+    ├── Exit message.png        # Goodbye message
+    └── Help menu.png           # Help menu
 ```
 
 ---
@@ -76,26 +84,29 @@ You can try the following commands:
 
 ---
 
-## 📸 Sample Output
+# 📸 Screenshots
 
-```
-Enter your name: Mansi
+### 💬 Conversation
 
-YOU: hello
-CHATBOT: Hello! Mansi 😊 Nice to meet you! How can I help you?
+![Conversation](screenshots/Conversation.png)
 
-YOU: roll a dice
-CHATBOT: 🎲 Rolled number: 5
+---
 
-YOU: toss a coin
-CHATBOT: 🪙 Heads
+### 🧮 Calculator
 
-YOU: calculator
-Enter first number: 15
-Enter second number: 5
-Enter operator (+,-,*,/): /
-CHATBOT: 3.0
-```
+![Calculator](screenshots/Calculator.png)
+
+---
+
+### ❓ Help Menu
+
+![Help Menu](screenshots/Help%20menu.png)
+
+---
+
+### 👋 Exit Message
+
+![Exit Message](screenshots/Exit%20message.png)
 
 ---
 
